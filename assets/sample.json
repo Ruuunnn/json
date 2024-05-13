@@ -1,0 +1,26 @@
+{
+    "name" : "Airyn Rastia Nabila",
+    "age" : 16,
+    "hobi" : [
+      "Berpetualang",
+      "Main Game",
+      "Menonton Film"
+    ],
+    "movie" : [
+      {
+        "id": 1,
+        "title": "My Little Monster",
+        "sinopsis": "My Little Monster mengisahkan tentang seorang siswi cuek dan tidak peduli pada lingkungan sekitar yang bernama Shizuku Mizutani. Mizutani menjalani hidup yang membosankan dan hanya fokus pada nilainya di sekolah. Sampai suatu hari, Mizutani bertemu dengan siswa laki-laki pembuat onar bernama Haru Yoshida."
+      },
+      {
+        "id": 2,
+        "title": "Ao Haru Ride",
+        "sinopsis": "Ao Haru Ride berkisah tentang seorang siswi SMP bernama Futaba yang jatuh cinta dengan seorang siswa bernama Kou. Futaba adalah seorang yang tidak begitu menyukai laki-laki karena mereka menyebalkan dan berisik, tapi Kou adalah pengecualian karena dimatanya Kou berbeda dengan laki-laki lain."
+      },
+      {
+        "id": 3,
+        "title": "Nana",
+        "sinopsis": "Serial ini berpusat pada Nana Osaki dan Nana Komatsu, dua wanita yang pindah ke Tokyo pada usia 20 tahun, dengan cerita berfokus pada pengejaran Nana O. untuk ketenaran dan pengejaran Nana K. untuk romansa, sambil berjuang untuk mempertahankan persahabatan mereka."
+      }
+    ]
+  }
